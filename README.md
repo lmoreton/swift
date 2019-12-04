@@ -1,4 +1,4 @@
-# Airbnb Swift Style Guide
+# Swift Style Guide
 
 ## Goals
 
@@ -23,7 +23,6 @@ Note that brevity is not a primary goal. Code should be made more concise only i
 
 ## Table of Contents
 
-1. [Xcode Formatting](#xcode-formatting)
 1. [Naming](#naming)
 1. [Style](#style)
     1. [Functions](#functions)
@@ -32,8 +31,8 @@ Note that brevity is not a primary goal. Code should be made more concise only i
 1. [Patterns](#patterns)
 1. [File Organization](#file-organization)
 1. [Objective-C Interoperability](#objective-c-interoperability)
-1. [Contributors](#contributors)
-1. [Amendments](#amendments)
+1. [Documenting and Commenting](#documenting-and-commenting)
+1. [Mark Style](#mark-style)
 
 ## Xcode Formatting
 
@@ -1145,14 +1144,14 @@ _You can enable the following settings in Xcode by running [this script](resourc
 
 **[⬆ back to top](#table-of-contents)**
 
-## Contributors
+## Documenting and Commenting
 
-  - [View Contributors](https://github.com/airbnb/swift/graphs/contributors)
+TODO
 
 **[⬆ back to top](#table-of-contents)**
 
-## Amendments
+ ## Mark Style
 
-We encourage you to fork this guide and change the rules to fit your team’s style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
+TODO
 
 **[⬆ back to top](#table-of-contents)**
